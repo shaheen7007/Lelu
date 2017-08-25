@@ -1,2 +1,2 @@
-include ':app', 'powerrefresh'
+include ':app', ':load', 'powerrefresh'
 include ':VIEWPAGERlibrary'
